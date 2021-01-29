@@ -29,5 +29,8 @@ public class SpringSecurityApplication {
 		System.out.println("Hoooo");
 	}
 
+	public void test3() {
+
+	}
 
 }
