@@ -11,6 +11,10 @@ public class SpringSecurityApplication {
 		System.out.println("Testing git hub");
 		System.out.println("Testing git hub");
 		System.out.println("Testing git hub");
+
+
+		System.out.println("new commit");
+		System.out.println("new commit");
 	}
 
 
