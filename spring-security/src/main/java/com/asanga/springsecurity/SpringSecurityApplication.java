@@ -10,4 +10,9 @@ public class SpringSecurityApplication {
 		SpringApplication.run(SpringSecurityApplication.class, args);
 	}
 
+
+	public void testmentod() {
+		System.out.println("Test method");
+	}
+
 }
