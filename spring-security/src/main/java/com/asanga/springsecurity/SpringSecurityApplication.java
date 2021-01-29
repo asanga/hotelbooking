@@ -15,6 +15,9 @@ public class SpringSecurityApplication {
 
 		System.out.println("new commit");
 		System.out.println("new commit");
+		System.out.println("new commit");
+		System.out.println("new commit");
+
 	}
 
 
@@ -25,5 +28,6 @@ public class SpringSecurityApplication {
 	public void testmethod2() {
 		System.out.println("Hoooo");
 	}
+
 
 }
