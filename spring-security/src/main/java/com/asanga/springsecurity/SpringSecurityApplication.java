@@ -15,4 +15,8 @@ public class SpringSecurityApplication {
 		System.out.println("Test method");
 	}
 
+	public void testmethod2() {
+		System.out.println("Hoooo");
+	}
+
 }
