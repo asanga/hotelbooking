@@ -9,6 +9,8 @@ public class SpringSecurityApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringSecurityApplication.class, args);
 		System.out.println("Testing git hub");
+		System.out.println("Testing git hub");
+		System.out.println("Testing git hub");
 	}
 
 
