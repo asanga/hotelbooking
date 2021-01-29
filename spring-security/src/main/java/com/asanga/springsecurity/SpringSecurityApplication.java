@@ -33,4 +33,8 @@ public class SpringSecurityApplication {
 
 	}
 
+	public void test4() {
+		
+	}
+
 }
